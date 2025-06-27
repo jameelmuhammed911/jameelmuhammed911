@@ -11,7 +11,7 @@ I'm a passionate **Software Developer** with 4+ years of hands-on experience in 
 - **Tools:** Git, Postman, Swagger, Jira, Confluence  
 
 ### 💡 What I’m Working On
-Currently building and optimizing banking applications at **Citigroup**, improving performance, authentication, and test automation across microservices and UI layers.
+Currently building and optimizing banking applications, improving performance, authentication, and test automation across microservices and UI layers.
 
 ### 📌 Highlights
 - Reduced API response time by **40%** via backend optimization  
